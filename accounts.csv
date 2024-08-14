@@ -1,0 +1,232 @@
+AccountId,AccountName,CurrentTLBU,ProposedTLBU,SBU,Environment,PrimaryProduct
+0001-7473-6823,clarivate-converis-dev,Science,Academia and Government,science group,Development,Converis
+0025-9791-1808,cpa-unycom-prod,Intellectual Property,Intellectual Property,ip management systems,Production,Unycom
+0066-2671-9859,clarivate-ric-prod,Platform & Shared Services,Life Sciences and Healthcare,c3,Production,Research Intelligence Cloud
+0084-9597-0321,pqp-pi2-prod,Science-PQ,Life Sciences and Healthcare,life sciences,Production,Pi2 Platform
+0089-7167-3290,clarivate-dst-test,not set,Life Sciences and Healthcare,Life Sciences,Test,DST
+0089-7167-3729,clarivate-dst-prod,not set,Life Sciences and Healthcare,Life Sciences,Production,DST
+0102-9200-8106,cpa-tipms-prod,Intellectual Property,Intellectual Property,ip management systems,Production,TIPMS
+0243-8474-0814,pqp-researchresearchbkps-prod,Science-PQ,Academia and Government,science group,Production,Research Professional
+0266-7645-7216,clarivate-sing-prod,Content,Life Sciences and Healthcare,singularity platform,Production,Singularity
+0269-8758-9317,cpa-fip-dev,Intellectual Property,Intellectual Property,ip management systems,Development,FoundationIP
+0349-9234-6476,clarivate-4libs-prod,Academia and Government,it services,cloud enablement,Production,ExL-Shared/Utility
+0357-1343-8945,clarivate-graduates-scratch,Corporate,it services,workplace,Development,ITS
+0582-6411-8202,clarivate-ftfdemos-prod,not set,Intellectual Property,IP Management Systems,Production,First To File
+0582-6427-0539,clarivate-innography-dev,Intellectual Property,Intellectual Property,pisa,Development,Innography
+0592-6134-5153,cpa-ftfnovartis-prod,Intellectual Property,Intellectual Property,ip management systems,Production,First To File
+0613-1567-3001,pqp-iiivega-prod,Science-PQ,Academia and Government,library workflow solutions,Production,Vega
+0633-6144-1654,clarivate-lsdialog-prod,Life Sciences and Healthcare,Life Sciences and Healthcare,life sciences,Production,Dialog Platform
+0695-8187-3985,drg-adaptive-dev,Science-HDS,Life Sciences and Healthcare,hds,Development,Optimize
+0788-9746-1510,clarivate-wos-dev,Science,Academia and Government,science group,Development,WoS
+0805-6127-6248,clarivate-tmv-dev,Intellectual Property,Intellectual Property,brand,Development,TrademarkVision
+0809-2501-3017,clarivate-network-prod,Corporate,it services,cloud enablement,Production,Shared Services
+0847-7846-0426,pi2-dst-dev,Science-PQ,Life Sciences and Healthcare,life sciences,Development,Pi2 Platform
+0860-9525-5968,cpa-dpvideos-dev,Intellectual Property,Intellectual Property,pisa,Development,Innography
+0890-5636-0382,clarivate-logging-prod,Corporate,it services,cloud enablement,Production,Centralised Logging Platform
+0957-9129-4995,pqp-iiivega-dev,Science-PQ,Academia and Government,library workflow solutions,Development,Vega
+0964-2890-8956,cpa-ipx-prod,Intellectual Property,Intellectual Property,patent services,Production,IP-X-Change
+1005-5281-3729,cpa-emr-prod,Intellectual Property,Intellectual Property,pisa,Development,IP1D
+1108-9300-6365,cpa-ftfsm-prod,Intellectual Property,Intellectual Property,ip management systems,Production,First To File
+1117-8214-6005,clarivate-ipcloud-dev,Platform & Shared Services,Life Sciences and Healthcare,c3,Development,C3 ADH
+1133-8657-2393,cpa-devops-dev,Intellectual Property,Intellectual Property,intellectual property shared,Development,CPA IT Operations
+1141-7969-6750,clarivate-tmv-prod,Intellectual Property,Intellectual Property,brand,Production,TrademarkVision
+1207-7936-3618,cpa-ipfolioint-prod,Intellectual Property,Intellectual Property,ip management systems,Production,IPFolio
+1348-6663-4989,pqp-iiioperations-prod,Science-PQ,Academia and Government,library workflow solutions,Production,Vega
+1424-5905-8544,cpa-forecast-dev,Intellectual Property,Intellectual Property,ip management systems,Development,Forecast
+1476-5538-7823,cpa-ftfeu-prod,Intellectual Property,Intellectual Property,ip management systems,Production,First To File
+1499-1200-1890,pqp-almad-prod,Science-PQ,Academia and Government,library workflow solutions,Production,AlmaD
+1555-0893-8372,clarivate-platform-devops,Corporate,it services,platform services,Production,not set
+1565-8566-3347,pqp-iiicloudopsbilling-prod,Science-PQ,Academia and Government,library workflow solutions,Production,Sierra
+1601-3075-2269,drg-context-matters,Science,Life Sciences and Healthcare,life sciences,Production,Cortellis RI
+1672-5732-6345,clarivate-converis-prod,Science,Academia and Government,science group,Production,Converis
+1681-8871-9599,pi2-dst-prod,Science-PQ,Life Sciences and Healthcare,life sciences,Production,Pi2 Platform
+1779-1059-2607,clarivate-contentip-dev,Intellectual Property,Intellectual Property,ip content services,Development,IP Content Shared
+1875-1670-2010,clarivate-network-dev,Corporate,it services,cloud enablement,Development,Shared Services
+1880-5841-3576,clarivate-lsdialog-dev,Life Sciences and Healthcare,Life Sciences and Healthcare,life sciences,Development,Dialog Platform
+1888-2192-9950,pi2-dst-test,Science-PQ,Life Sciences and Healthcare,life sciences,Development,Pi2 Platform
+1991-9351-2308,pqp-iiirepository-prod,Science-PQ,Academia and Government,library workflow solutions,Production,Sierra
+2003-3184-5987,drg-corporate-prod,Science-HDS,Life Sciences and Healthcare,hds,Production,DRG Corp Shared Services
+2007-9902-5489,clarivate-security-dev,Information Security,it services,information security,Development,CompuMark
+2042-4361-9719,pqp-iiises-prod,Science-PQ,Academia and Government,library workflow solutions,Production,Sierra
+2075-7063-6879,clarivate-its-prod,Corporate,it services,workplace,Production,ITS
+2111-2564-8656,clarivate-filing-dev,Intellectual Property,Intellectual Property,patent services,Development,EP Validations
+2121-9818-1966,cpa-tipms-dev,Intellectual Property,Intellectual Property,ip management systems,Development,TIPMS
+2209-0265-8294,pqp-pivot-prod,Science-PQ,Academia and Government,science group,Production,Pivot
+2215-4869-0952,pqp-pivot-dev,Science-PQ,Academia and Government,science group,Development,Pivot
+2238-7687-2483,clarivate-scholarone-dev,Science,Academia and Government,science group,Development,ScholarOne
+2353-7537-2861,pqp-alexanderstreetpress-prod,Science-PQ,Academia and Government,proquest information systems,Production,Alexander Street Press
+2417-9616-0482,cpa-fipap-prod,Intellectual Property,Intellectual Property,ip management systems,Production,FoundationIP
+2419-0323-3550,pqp-iiilab-dev,Science-PQ,Academia and Government,library workflow solutions,Development,Sierra
+2463-1559-2875,pqp-exltraining-prod,Science-PQ,Academia and Government,library workflow solutions,Development,ExL-Shared/Utility
+2514-8397-2160,cpa-jpoef-dev,Intellectual Property,Intellectual Property,pisa,Development,IP1D
+2629-8985-9914,cpa-fipus-prod,Intellectual Property,Intellectual Property,ip management systems,Production,FoundationIP
+2747-3885-1303,cpa-ftf-dev,Intellectual Property,Intellectual Property,ip management systems,Development,First To File
+2782-3556-2603,pqp-iiicloudops-scratch,Science-PQ,Academia and Government,library workflow solutions,Development,Sierra
+2844-0012-7437,pqp-darkarchive-prod,Science-PQ,Academia and Government,proquest information systems,Production,Dark Archive
+2947-9859-3061,patient-connect-prod,Science-HDS,Life Sciences and Healthcare,hds,Production,Patient Connect
+2967-8195-5829,clarivate-contentag-dev,Academia and Government,Academia and Government,wos content,Development,WoS Content Shared
+3036-5673-8525,clarivate-rwd-dev,Life Sciences and Healthcare,Life Sciences and Healthcare,lsh content,Development,Real World Data
+3065-4941-1183,clarivate-logging-dev,Corporate,it services,cloud enablement,Development,Centralised Logging Platform
+3076-8780-3818,cpa-atlas-prod,IT Services,it services,cloud enablement,Production,Platform Tools
+3087-9744-7181,clarivate-cortellis-dev,Science,Life Sciences and Healthcare,life sciences,Development,Cortellis Platform
+3123-4106-4993,kpo-kopernio-prod,Science,Academia and Government,science group,Production,EndNote Click
+3134-8799-7542,cpa-cops-prod,Intellectual Property,Intellectual Property,integration services,Production,Hermes
+3169-4550-9484,cpa-ipfoliodata-prod,Intellectual Property,Intellectual Property,ip management systems,Production,IPFolio
+3267-0860-9633,clarivate-compumark-prod,Intellectual Property,Intellectual Property,brand,Production,CompuMark
+3270-3472-4771,clarivate-publons-dev,Science,Academia and Government,science group,Development,Publons
+3271-8073-8555,pqp-researchresearch-prod,Science-PQ,Academia and Government,science group,Production,Research Professional
+3423-3842-6877,clarivate-ric-dev,Platform & Shared Services,Life Sciences and Healthcare,c3,Development,Research Intelligence Cloud
+3444-2872-6336,drg-adaptive-prod,Science-HDS,Life Sciences and Healthcare,hds,Production,Optimize
+3514-3154-2491,clarivate-contentlsh-dev,Life Sciences and Healthcare,Life Sciences and Healthcare,lsh content,Development,LS Content
+3576-5525-8729,cpa-mgmt-prod,Intellectual Property,Intellectual Property,integration services,Development,Integration Hub / CDM
+3579-5861-8664,drg-understand-prod,Science-HDS,Life Sciences and Healthcare,hds,Production,Understand
+3658-5977-3477,pqp-pqis-dev,Science-PQ,Academia and Government,proquest information systems,Development,ProQuest Platform
+3671-2744-9374,cpa-inbounddata-prod,Intellectual Property,Intellectual Property,pisa,Development,IP1D
+3698-7430-3498,clarivate-platform-dev,Platform & Shared Services,it services,platform services,Development,not set
+3769-8858-0765,clarivate-ptoprivatedata-prod,Intellectual Property,Intellectual Property,pisa,Production,IP1D
+3806-7714-3647,clarivate-cc-prod,Content,Academia and Government,wos content,Production,not set
+3814-9187-3675,clarivate-rwdcontent-prod,Life Sciences and Healthcare,Life Sciences and Healthcare,LSH Content,Production,Singularity RWD
+3834-7597-0624,cpa-bienterprise-prod,Intellectual Property,Intellectual Property,pisa,Development,Innography
+3913-7832-1200,clarivate-dartsip-prod,Intellectual Property,Intellectual Property,brand,Production,Darts-ip
+4052-2690-2325,drg-consulting-prod,Professional Services,Life Sciences and Healthcare,lsh professional services,Production,DRG Professional Services
+4124-2915-7356,cpa-jpoef-prod,Intellectual Property,Intellectual Property,pisa,Production,IP1D
+4192-5524-3922,clarivate-publons-prod,Science,Academia and Government,science group,Production,Publons
+4276-1432-3700,cpa-hermes-prod,Intellectual Property,Intellectual Property,integration services,Production,Hermes
+4326-7315-3361,pqp-esploro-prod,Science-PQ,it services,cloud enablement,Production,Esploro
+4363-6272-4411,clarivate-dba-prod,Corporate,it services,database services,Production,DB Tools
+4375-9155-8702,clarivate-tmvanitian-prod,Intellectual Property,Intellectual Property,brand,Production,TrademarkVision
+4568-7164-7555,clarivate-amazonconnect-prod,Science-PQ,it services,cloud enablement,Production,GIO Services
+4611-3256-5372,cpa-corpitdnsmgmt-prod,Intellectual Property,Intellectual Property,intellectual property shared,Production,CPA IT Operations
+4638-6016-3189,kpo-kopernio-dev,Science,Academia and Government,science group,Development,EndNote Click
+4711-1285-2934,clarivate-psportal-dev,Intellectual Property,Intellectual Property,Patent Services,Development,Service Request Portal
+4711-1297-4696,clarivate-lshshared-dev,Life Sciences and Healthcare,Life Sciences and Healthcare,life sciences,Development,Dialog Platform
+4717-4485-9133,clarivate-piq-dev,Intellectual Property,Intellectual Property,pisa,Development,Innography
+4717-8669-8184,clarivate-bis-prod,Corporate,it services,bis,Production,BIS
+4732-8769-8290,clarivate-piq-prod,Intellectual Property,Intellectual Property,pisa,Production,Innography
+4753-0384-8359,cpa-ftfbms-prod,Intellectual Property,Intellectual Property,ip management systems,Production,First To File
+4822-7372-2855,cpa-valipat-staging,Intellectual Property,Intellectual Property,patent services,Development,EP Validations
+4857-9392-6309,pqp-exlibrisorg-prod,Science-PQ,Academia and Government,library workflow solutions,Production,ExL-Shared/Utility
+4935-4801-4760,clarivate-deepracer-scratch,IT Services,it services,corporate projects,Development,Cloud Training
+5013-3036-8853,pqp-researchresearchbuild-prod,Science-PQ,Academia and Government,science group,Production,Research Professional
+5045-2911-1128,clarivate-its-dev,Corporate,it services,workplace,Development,ITS
+5070-2298-2260,cpa-unycom-dev,Intellectual Property,Intellectual Property,ip management systems,Development,Unycom
+5081-8012-4989,cpa-ftfus-prod,Intellectual Property,Intellectual Property,ip management systems,Production,First To File
+5097-8651-7216,clarivate-cc-dev,Content,Academia and Government,wos content,Development,not set
+5183-4684-8341,pqp-pqis-prod,Science-PQ,Academia and Government,proquest information systems,Production,ProQuest Platform
+5195-9687-3875,cpa-inprotech-dev,Intellectual Property,Intellectual Property,ip management systems,Development,Inprotech
+5225-6948-3683,pqp-iiidev-scratch,Science-PQ,Academia and Government,library workflow solutions,Development,Vega
+5235-6745-2838,pqp-almad-dev,Science-PQ,Academia and Government,library workflow solutions,Development,CampusM
+5255-1091-6521,cpa-qa-dev,Intellectual Property,Intellectual Property,intellectual property shared,Development,CPA IT Operations
+5261-4298-3294,clarivate-annuities-prod,Intellectual Property,Intellectual Property,Integration Services,Production,Claristate
+5284-9306-3954,cpa-ipx-dev,Intellectual Property,Intellectual Property,patent services,Development,IP-X-Change
+5317-6409-9749,drg-ixxus-prod,Science-HDS,Life Sciences and Healthcare,hds,Production,Understand
+5322-4926-3670,cpa-ftfcommon-prod,Intellectual Property,Intellectual Property,ip management systems,Production,First To File
+5332-6733-9653,clarivate-psportal-prod,not set,Intellectual Property,Patent Services,Production,Service Request Portal
+5358-1473-2662,pqp-exlibrisshared-prod,Science-PQ,Academia and Government,library workflow solutions,Production,ExL-Shared/Utility
+5415-3315-4146,cpa-ftfmgmt-prod,Intellectual Property,Intellectual Property,ip management systems,Production,First To File
+5454-7814-2547,cpa-dpbi-prod,Intellectual Property,Intellectual Property,pisa,Development,Innography
+5535-4704-5193,cpa-forecast-prod,Intellectual Property,Intellectual Property,ip management systems,Production,Forecast
+5543-8687-2708,cpa-ftfroche-prod,Intellectual Property,Intellectual Property,ip management systems,Production,First To File
+5560-5099-0523,clarivate-compumark-dev,Intellectual Property,Intellectual Property,brand,Development,CompuMark
+5584-3676-5600,cpa-dp-staging,Intellectual Property,Intellectual Property,pisa,Development,Innography
+5630-1898-5446,drg-nasuni-prod,Corporate,it services,workplace,Production,ITS Infrastructure
+5630-2732-8827,cpa-face-dev,Intellectual Property,Intellectual Property,pisa,Development,FA/CE
+5715-6046-3952,cpa-memotech-dev,Intellectual Property,Intellectual Property,ip management systems,Development,Memotech
+5715-9901-2972,cpa-dpbi-scratch,Intellectual Property,Intellectual Property,pisa,Development,Innography
+5739-3409-7260,drg-billing-prod,Corporate,it services,corporate shared,Production,Billing
+5760-0444-6439,clarivate-lsps-dev,Professional Services,Life Sciences and Healthcare,lsh professional services,Development,Life Sciences Professional Services
+5782-7663-6216,pqp-iiisierra-prod,Science-PQ,Academia and Government,library workflow solutions,Production,Sierra
+5883-6041-4558,clarivate-sharedeco-prod,Platform & Shared Services,it services,platform services,Production,not set
+5957-2829-8855,clarivate-dartsip-dev,Intellectual Property,Intellectual Property,brand,Development,Darts-ip
+6029-3793-9131,cpa-ipcloud-prod,Intellectual Property,Intellectual Property,pisa,Production,IP1D
+6117-2526-5938,cpa-mgmtbilling-prod,Corporate,it services,corporate shared,Production,Billing
+6144-3893-0959,clarivate-compumark-scratch,Intellectual Property,Intellectual Property,brand,Development,CompuMark
+6246-1950-2656,clarivate-scholarone-prod,Science,Academia and Government,science group,Production,ScholarOne
+6284-8812-6653,clarivate-rwd-prod,Life Sciences and Healthcare,Life Sciences and Healthcare,lsh content,Production,Real World Data
+6334-3010-3336,pqp-proquestorg-prod,Science-PQ,it services,cloud enablement,Production,GIO Services
+6345-3898-5114,cpa-ipp-prod,Intellectual Property,Intellectual Property,ip management systems,Production,IP Apps
+6427-9990-9962,drg-adx-prod,Corporate,it services,corporate projects,Production,Corporate Projects
+6492-8055-1980,clarivate-ds-prod,Data Science,Intellectual Property,pisa,Production,Data Science
+6517-1596-6883,cpa-fipeu-prod,Intellectual Property,Intellectual Property,ip management systems,Production,FoundationIP
+6652-5204-0437,pi2-org-prod,Science-PQ,Life Sciences and Healthcare,life sciences,Production,Pi2 Platform
+6697-7090-5949,pqp-ombiel-prod,Science-PQ,Academia and Government,library workflow solutions,Production,CampusM
+6738-6448-7890,clarivate-lshshared-prod,Life Sciences and Healthcare,Life Sciences and Healthcare,life sciences,Production,Dialog Platform
+6740-4464-3933,clarivate-platform-prod,Platform & Shared Services,it services,platform services,Production,not set
+6742-5162-4734,clarivate-ipcloud-prod,Platform & Shared Services,Life Sciences and Healthcare,c3,Production,C3 ADH
+6814-6920-3435,cpa-ip1dihub-dev,Intellectual Property,Intellectual Property,pisa,Development,IP1D
+6878-9075-6020,clarivate-innovate-dev,Intellectual Property,Intellectual Property,pisa,Development,Derwent Innovation
+7041-7793-1110,clarivate-lspv-prod,Life Sciences and Healthcare,Life Sciences and Healthcare,life sciences,Production,Pharmacovigilance
+7062-6569-5239,pqp-iiiolsplatform-prod,Science-PQ,Academia and Government,library workflow solutions,Production,OLS
+7141-7348-8548,pi2-dst-stage,Science-PQ,Life Sciences and Healthcare,life sciences,Development,Pi2 Platform
+7227-0012-4869,clarivate-lsps-prod,Professional Services,Life Sciences and Healthcare,lsh professional services,Production,Life Sciences Professional Services
+7292-8967-8546,clarivate-innovate-prod,Intellectual Property,Intellectual Property,pisa,Production,Derwent Innovation
+7363-8785-4295,cpa-cdm-dev,Intellectual Property,Intellectual Property,integration services,Development,Integration Hub / CDM
+7367-2478-0082,pqp-iiipolaris-dev,Academia and Government,Academia and Government,library workflow solutions,Development,Polaris
+7428-0423-5232,pqp-refworks-dev,Science-PQ,Academia and Government,science group,Development,RefWorks
+7505-9716-8151,clarivate-security-prod,Information Security,it services,information security,Production,CompuMark
+7528-5751-8543,clarivate-exlqa-dev,Science-PQ,Academia and Government,library workflow solutions,Development,ExL-Shared/Utility
+7543-5737-7086,pqp-tdmstudio-prod,Science-PQ,Academia and Government,proquest information systems,Production,TDM Studio
+7548-6661-0214,pqp-pqis-scratch,Science-PQ,it services,cloud enablement,Production,GIO Services
+7607-4644-1203,cpa-ipfolioint-dev,Intellectual Property,Intellectual Property,ip management systems,Development,IPFolio
+7617-6263-4378,clarivate-ds-dev,Data Science,Academia and Government,a and g genai platform,Development,Data Science
+7656-9896-9919,clarivate-lspv-dev,Life Sciences and Healthcare,Life Sciences and Healthcare,life sciences,Development,Pharmacovigilance
+7661-9279-2140,clarivate-ps-tech,Professional Services,Life Sciences and Healthcare,lsh professional services,Production,Life Sciences Professional Services
+7674-0030-8039,drg-analytics-prod,Science-HDS,Life Sciences and Healthcare,hds analytics,Production,HDS Analytics
+7677-6782-1003,clarivate-bis-dev,Corporate,it services,bis,Development,BIS
+7714-6835-0191,cpa-dpbi-dev,Intellectual Property,Intellectual Property,pisa,Development,Innography
+7733-2188-2549,clarivate-tools-prod,Corporate,it services,cloud enablement,Production,Platform Tools
+7735-8053-5724,cpa-ids-dev,Intellectual Property,Intellectual Property,patent services,Development,IDS Builder
+7736-0266-6105,clarivate-ptoprivatedata-dev,Intellectual Property,Intellectual Property,pisa,Development,IP1D
+7741-5259-3636,clarivate-sp-scratch,Platform & Shared Services,it services,platform services,Development,Platform Services
+7753-7261-9767,cpa-ids-prod,Intellectual Property,Intellectual Property,patent services,Development,IDS Builder
+7807-0655-5836,clarivate-tools-dev,Corporate,it services,cloud enablement,Development,Platform Tools
+7818-3002-3913,clarivate-ihubservices-dev,Intellectual Property,Intellectual Property,integration services,Development,Integration Hub / CDM
+7853-5859-5083,clarivate-exlvpn-prod,Science-PQ,Academia and Government,library workflow solutions,Production,ExL-Shared/Utility
+7881-7924-7746,pqp-ebrarylegacy-prod,Science-PQ,Academia and Government,proquest books,Production,EBooks Central Platform
+7896-8100-3108,clarivate-billing-prod,Corporate,it services,cloud enablement,Production,Billing
+7962-7269-1833,pqp-masterlaborg-prod,Academia and Government,Academia and Government,library workflow solutions,Development,ExL-Shared/Utility
+7976-9744-2335,clarivate-rpa-prod,Intellectual Property,Intellectual Property,ip management systems,Production,Ipendo
+8021-3710-4962,pqp-proquesthipaa-prod,Science-PQ,Academia and Government,proquest information systems,Production,Alexander Street Press
+8074-8509-9697,clarivate-sing-dev,Content,Life Sciences and Healthcare,singularity platform,Development,Singularity
+8091-4682-4789,clarivate-sp-prod,Platform & Shared Services,it services,platform services,Production,Platform Services
+8113-3431-0665,cpa-memotech-prod,Intellectual Property,Intellectual Property,ip management systems,Production,Memotech
+8119-2081-4666,drg-optimize-prod,Science-HDS,Life Sciences and Healthcare,hds,Production,Optimize
+8142-9327-5740,clarivate-contentip-prod,Intellectual Property,Intellectual Property,ip content services,Production,IP Content Shared
+8336-4716-9212,clarivate-ipgdevops-prod,Intellectual Property,Intellectual Property,intellectual property shared,Production,CPA IT Operations
+8365-8786-2695,pqp-iiimasterbilling-prod,Science-PQ,Academia and Government,library workflow solutions,Production,Vega
+8402-8771-1636,hlm-hanlim-prod,Intellectual Property,Intellectual Property,patent services,Production,Hanlim IPS
+8462-4348-0687,cpa-face-prod,Intellectual Property,Intellectual Property,pisa,Production,FA/CE
+8517-2565-8606,clarivate-dst-scratch,not set,Life Sciences and Healthcare,Life Sciences,Development,DST
+8530-0322-3853,cpa-dp-dev,Intellectual Property,Intellectual Property,pisa,Development,Innography
+8597-3271-6513,pi2-dst-infra,Science-PQ,Life Sciences and Healthcare,life sciences,Development,Pi2 Platform
+8753-7263-8076,clarivate-hds-scratch,Life Sciences and Healthcare,it services,cloud enablement,Development,LSH Shared
+8822-1870-2164,pqp-refworkssystems-prod,Science-PQ,Academia and Government,science group,Production,RefWorks
+8853-3714-9547,clarivate-cortellis-prod,Science,Life Sciences and Healthcare,life sciences,Production,Cortellis Platform
+8913-7702-9739,clarivate-rwdcontent-dev,Life Sciences and Healthcare,Life Sciences and Healthcare,LSH Content,Production,Singularity RWD
+9001-8255-0973,clarivate-contentag-prod,Academia and Government,Academia and Government,wos content,Production,WoS Content Shared
+9084-3446-5479,clarivate-ihub-prod,Intellectual Property,Intellectual Property,integration services,Production,Integration Hub / CDM
+9152-0664-8886,cpa-cdm-prod,Intellectual Property,Intellectual Property,integration services,Production,Integration Hub / CDM
+9157-5971-3271,pqp-refworks-prod,Science-PQ,Academia and Government,science group,Production,RefWorks
+9166-4847-6034,pqp-iiipolaris-prod,Science-PQ,Academia and Government,library workflow solutions,Production,Polaris
+9171-8474-8092,pqp-pivot-stage,Science-PQ,Academia and Government,science group,Development,Pivot
+9206-1256-7703,cpa-austindocshare-prod,Intellectual Property,Intellectual Property,pisa,Development,IP1D
+9264-4071-7229,cpa-control-dev,Intellectual Property,Intellectual Property,integration services,Development,Integration Hub / CDM
+9326-6005-0319,drg-optimize-dev,Science-HDS,Life Sciences and Healthcare,hds,Development,Optimize
+9355-9168-5333,cpa-innomgmt-prod,Intellectual Property,Intellectual Property,pisa,Development,Innography
+9364-2229-1603,pqp-cosoperations-prod,Science-PQ,Academia and Government,science group,Production,Pivot
+9379-9682-1029,cpa-dp-prod,Intellectual Property,Intellectual Property,pisa,Production,Innography
+9447-6105-0186,pi2-dstartifacts-prod,Life Sciences and Healthcare,Life Sciences and Healthcare,life sciences,Production,DST
+9563-4078-3326,clarivate-annuities-dev,Intellectual Property,Intellectual Property,Integration Services,Production,Claristate
+9586-6130-3160,clarivate-contentlsh-prod,Life Sciences and Healthcare,Life Sciences and Healthcare,lsh content,Production,LS Content
+9620-0946-0842,drg-understand-dev,Science-HDS,Life Sciences and Healthcare,hds,Development,Understand
+9625-9062-2208,cpa-ppa-prod,Intellectual Property,Intellectual Property,pisa,Development,IP1D
+9629-2279-0640,pqp-researchresearch-dev,Science-PQ,Academia and Government,science group,Production,Research Professional
+9645-4482-9567,pqp-exllab-prod,Academia and Government,Academia and Government,library workflow solutions,Development,ExL-Shared/Utility
+9686-0091-7556,clarivate-sp-dev,Platform & Shared Services,it services,platform services,Development,Platform Services
+9750-4991-5342,clarivate-proofreading-prod,Intellectual Property,Intellectual Property,patent services,Production,Proof Reader
+9750-5002-6569,clarivate-proofreading-dev,Intellectual Property,Intellectual Property,patent services,Development,Proof Reader
+9764-9779-4600,pqp-exlibrisses-prod,Science-PQ,Academia and Government,library workflow solutions,Production,ExL-Shared/Utility
+9846-8851-3601,cpa-hermes-dev,Intellectual Property,Intellectual Property,integration services,Development,Hermes
+9923-8238-3882,clarivate-filing-prod,Intellectual Property,Intellectual Property,patent services,Production,EP Validations
+9923-8261-8877,clarivate-dst-dev,not set,Life Sciences and Healthcare,Life Sciences,Development,DST
+9967-3390-1146,clarivate-wos-prod,Science,Academia and Government,science group,Production,Ritik
